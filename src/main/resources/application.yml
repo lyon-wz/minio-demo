@@ -1,0 +1,12 @@
+server:
+  port: 4399
+
+
+#mino\u5B58\u50A8\u7684\u914D\u7F6E
+minio:
+  endpoint: http://192.168.3.154:9090
+  bucketName: bucket
+  accessKey: minioadmin
+  secretKey: minioadmin
+
+
